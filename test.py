@@ -1,0 +1,1 @@
+print("Assalamu Alaikum, Khalid! 🚀")
