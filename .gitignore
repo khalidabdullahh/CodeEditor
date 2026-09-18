@@ -1,0 +1,6 @@
+# macOS metadata
+.DS_Store
+
+# Generated JavaScript dependencies and Next.js build output
+Gemini Ai/node_modules/
+Gemini Ai/.next/

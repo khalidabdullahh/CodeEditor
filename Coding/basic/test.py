@@ -1,0 +1,1 @@
+print("Assalamu Alaikum,\n  I am Khalid Abdullah, studying Computer Science and Engineering - CSE at Natonal University Dhaka!")
